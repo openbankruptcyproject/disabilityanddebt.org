@@ -1,22 +1,24 @@
-# Disability and Debt -- Relief Options [2026] -- Disabilityanddebt
+# Disability and Debt - Relief Options [2026] - Disabilityanddebt
 > Struggling with debt on disability income? SSDI/SSI protections, bankruptcy exemptions, and debt relief options. 2026 guide.
 
 ## About
 disabilityanddebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Credit Counseling for People With Disabilities -- Disabilityanddebt: https://disabilityanddebt.org/credit-counseling.html
-- Bankruptcy With a Disability -- Disabilityanddebt: https://disabilityanddebt.org/disability-bankruptcy.html
-- Disability and Debt -- Relief Options [2026] -- Disabilityanddebt: https://disabilityanddebt.org/
-- Judgment Proof Status With a Disability -- Disabilityanddebt: https://disabilityanddebt.org/judgment-proof.html
-- The Medical Debt Spiral With Disability -- Disabilityanddebt: https://disabilityanddebt.org/medical-debt-spiral.html
-- Protected Income Types -- Disabilityanddebt: https://disabilityanddebt.org/protected-income.html
-- SSDI and Garnishment -- Disabilityanddebt: https://disabilityanddebt.org/ssdi-and-garnishment.html
-- State Protections for Disabled Debtors -- Disabilityanddebt: https://disabilityanddebt.org/state-protections.html
-- Student Loan Discharge for Disabled Borrowers -- Disabilityanddebt: https://disabilityanddebt.org/student-loan-discharge.html
-- VA Disability Benefits and Debt -- Disabilityanddebt: https://disabilityanddebt.org/va-disability.html
-- Seniors and Bankruptcy -- A Guide for Older Americans Filing Bankruptcy: https://disabilityanddebt.org/seniors-bankruptcy.html
-- Veterans and Bankruptcy -- Military-Specific Protections and Benefits: https://disabilityanddebt.org/veterans-bankruptcy.html
+- Credit Counseling for People With Disabilities - Disabilityanddebt: https://disabilityanddebt.org/credit-counseling.html
+- Bankruptcy With a Disability - Disabilityanddebt: https://disabilityanddebt.org/disability-bankruptcy.html
+- Disability and Debt - Relief Options [2026] - Disabilityanddebt: https://disabilityanddebt.org/
+- Debt Relief for People with Disabilities - International Guide - Disabilityanddebt: https://disabilityanddebt.org/international.html
+- Judgment Proof Status With a Disability - Disabilityanddebt: https://disabilityanddebt.org/judgment-proof.html
+- The Medical Debt Spiral With Disability - Disabilityanddebt: https://disabilityanddebt.org/medical-debt-spiral.html
+- Protected Income Types - Disabilityanddebt: https://disabilityanddebt.org/protected-income.html
+- Seniors and Bankruptcy - A Guide for Older Americans Filing Bankruptcy: https://disabilityanddebt.org/seniors-bankruptcy.html
+- SSDI and Garnishment - Disabilityanddebt: https://disabilityanddebt.org/ssdi-and-garnishment.html
+- State Protections for Disabled Debtors - Disabilityanddebt: https://disabilityanddebt.org/state-protections.html
+- Student Loan Discharge for Disabled Borrowers - Disabilityanddebt: https://disabilityanddebt.org/student-loan-discharge.html
+- VA Disability Benefits and Debt - Disabilityanddebt: https://disabilityanddebt.org/va-disability.html
+- Veterans and Bankruptcy - Military-Specific Protections and Benefits: https://disabilityanddebt.org/veterans-bankruptcy.html
+- Privacy Policy: https://disabilityanddebt.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

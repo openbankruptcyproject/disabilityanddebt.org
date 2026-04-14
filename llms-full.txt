@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Credit Counseling for People With Disabilities -- Disabilityanddebt
+## Credit Counseling for People With Disabilities - Disabilityanddebt
 Source: https://disabilityanddebt.org/credit-counseling.html
 
 Credit Counseling for People With Disabilities
@@ -14,6 +14,8 @@ Credit Counseling for People With Disabilities
 Free Financial Guidance Tailored to Your Situation
 
 ← Back to disabilityanddebt.org
+
+Home›Credit Counseling for People With Disabilities | disabilityanddebt.org›Credit Counseling for People With Disabilities
 
 Why Specialized Counseling Matters
 
@@ -73,7 +75,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -147,7 +149,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Bankruptcy With a Disability -- Disabilityanddebt
+## Bankruptcy With a Disability - Disabilityanddebt
 Source: https://disabilityanddebt.org/disability-bankruptcy.html
 
 Bankruptcy With a Disability
@@ -155,6 +157,8 @@ Bankruptcy With a Disability
 Special Considerations for Disabled Filers
 
 ← Back to disabilityanddebt.org
+
+Home›Bankruptcy With a Disability | disabilityanddebt.org›Bankruptcy With a Disability
 
 Fee Waivers
 
@@ -205,6 +209,10 @@ Reaffirmation Agreements Explained
 
 Payday Loan Debt in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -214,7 +222,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -288,8 +296,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Disability and Debt -- Relief Options [2026] -- Disabilityanddebt
+## Disability and Debt - Relief Options [2026] - Disabilityanddebt
 Source: https://disabilityanddebt.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -299,25 +309,25 @@ Protecting Your Benefits and Managing Debt on Disability
 
 Explore Disability and Debt Topics
 
-Protected Income Types -- Which disability benefits are safe from creditors
+Protected Income Types - Which disability benefits are safe from creditors
 
-SSDI and Garnishment -- When Social Security can and cannot be taken
+SSDI and Garnishment - When Social Security can and cannot be taken
 
-Judgment Proof Status -- When creditors cannot collect even with a judgment
+Judgment Proof Status - When creditors cannot collect even with a judgment
 
-The Medical Debt Spiral -- How disability leads to crushing medical debt
+The Medical Debt Spiral - How disability leads to crushing medical debt
 
-Disability and Bankruptcy -- Filing bankruptcy when you are disabled
+Disability and Bankruptcy - Filing bankruptcy when you are disabled
 
-VA Disability Benefits -- Protecting your VA benefits from creditors
+VA Disability Benefits - Protecting your VA benefits from creditors
 
-Student Loan Discharge -- Eliminating student loans through TPD
+Student Loan Discharge - Eliminating student loans through TPD
 
-Credit Counseling -- Free and low-cost financial help
+Credit Counseling - Free and low-cost financial help
 
-State Protections -- How your state protects disabled debtors
+State Protections - How your state protects disabled debtors
 
-International Guide -- Debt relief for disabled people in South Africa, UK, Australia, India, and more
+International Guide - Debt relief for disabled people in South Africa, UK, Australia, India, and more
 
 Your Disability Benefits Are Protected
 
@@ -333,19 +343,19 @@ This changes if: you receive non-exempt income (wages, rental income), you have 
 
 Protecting Your Bank Account
 
-Federal law requires banks to automatically protect the last 2 months of electronically deposited federal benefits from a bank account levy. This is the "look-back" rule -- your bank must review direct deposits and shield 2 months' worth of federal benefit deposits without you having to do anything.
+Federal law requires banks to automatically protect the last 2 months of electronically deposited federal benefits from a bank account levy. This is the "look-back" rule - your bank must review direct deposits and shield 2 months' worth of federal benefit deposits without you having to do anything.
 
 Best practice: keep disability benefits in a separate account that receives ONLY benefit deposits. This makes it easy to prove all funds are exempt. If you mix benefit income with non-exempt income, you may need to trace each deposit to prove exemption.
 
 Student Loan Discharge for Disability
 
-If you are totally and permanently disabled (TPD), you can have your federal student loans completely discharged. Three qualifying paths: SSA determination -- receiving SSDI or SSI with a next review date of 5-7 years. VA determination -- individual unemployability rating or 100% service-connected disability. Physician certification -- doctor certifies inability to engage in substantial gainful activity for at least 60 months.
+If you are totally and permanently disabled (TPD), you can have your federal student loans completely discharged. Three qualifying paths: SSA determination - receiving SSDI or SSI with a next review date of 5-7 years. VA determination - individual unemployability rating or 100% service-connected disability. Physician certification - doctor certifies inability to engage in substantial gainful activity for at least 60 months.
 
-Apply at disabilitydischarge.com (the Department of Education's official site). There is a 3-year monitoring period -- if your income exceeds poverty level during monitoring, the discharge can be reversed. Other student loan forgiveness options.
+Apply at disabilitydischarge.com (the Department of Education's official site). There is a 3-year monitoring period - if your income exceeds poverty level during monitoring, the discharge can be reversed. Other student loan forgiveness options.
 
 Dealing With Debt Collectors on Disability
 
-Debt collectors may not know (or care) that your income is protected. They will still call, send letters, and threaten lawsuits. Your rights: Request debt validation in writing. Send a cease and desist letter to stop calls. If sued, respond by asserting your exemptions. Report FDCPA violations -- if a collector threatens to garnish your wages or disability income they know is exempt, that is an FDCPA violation.
+Debt collectors may not know (or care) that your income is protected. They will still call, send letters, and threaten lawsuits. Your rights: Request debt validation in writing. Send a cease and desist letter to stop calls. If sued, respond by asserting your exemptions. Report FDCPA violations - if a collector threatens to garnish your wages or disability income they know is exempt, that is an FDCPA violation.
 
 Many collectors use fear and ignorance as weapons. Knowing that your benefits are protected takes away their power.
 
@@ -364,7 +374,7 @@ SSI is means-tested and has asset limits ($2,000 individual, $3,000 couple). If 
 Explore More Topics
 
 Protected Income Types\n SSDI and Garnishment\n Judgment Proof Status With a Disability\n The Medical Debt Spiral With Disability\n Bankruptcy With a Disability\n VA Disability Benefits and Debt\n Student Loan Discharge for Disabled Borrowers\n Credit Counseling for People With Disabilities\n State Protections for Disabled Debtors
-International Guide -- South Africa, UK, Australia, India, and More
+International Guide - South Africa, UK, Australia, India, and More
 
 Frequently Asked Questions
 
@@ -426,7 +436,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -581,6 +591,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 disabilityanddebt.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -594,9 +605,206 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Judgment Proof Status With a Disability -- Disabilityanddebt
+## Debt Relief for People with Disabilities - International Guide - Disabilityanddebt
+Source: https://disabilityanddebt.org/international.html
+
+Disability and Debt
+
+International Guide - Debt Relief for People with Disabilities
+
+Open Bankruptcy Project›Disability and Debt›International Guide
+
+Important: This guide is educational only and does not constitute legal advice. Laws change frequently. The information below reflects general frameworks as of early 2025. Always consult a qualified legal professional in your jurisdiction before making decisions about debt or insolvency.
+
+Disability and Debt - A Global Crisis
+
+The World Health Organization estimates that over 1.3 billion people - roughly 16% of the global population - live with a significant disability. In nearly every country, disabled people face higher rates of poverty, unemployment, and medical expenses than the general population. The World Bank reports that people with disabilities are disproportionately represented among the world's poorest, and households with a disabled member are more likely to experience financial hardship.
+
+Debt compounds these challenges. When income is limited by disability and expenses are elevated by care needs, the gap often gets filled by borrowing. Yet insolvency frameworks - the legal systems designed to give overwhelmed debtors a fresh start - vary enormously from country to country. Some nations have robust personal bankruptcy systems. Others have almost none. This guide surveys the options available in seven major English-speaking jurisdictions.
+
+South Africa
+
+Debt review under the National Credit Act (NCA), 2005. South Africa's primary tool for over-indebted consumers is the debt review process (also called debt counselling), established under the National Credit Act (Act 34 of 2005). A registered debt counsellor assesses whether you are over-indebted, then negotiates reduced payments and interest rates with your creditors. Once under debt review, creditors cannot take legal action against you. The process typically lasts 3 to 5 years.
+
+Sequestration. Formal insolvency in South Africa is called sequestration, governed by the Insolvency Act 24 of 1936. This is generally a last resort because it requires proving to the court that sequestration will benefit creditors (the "advantage to creditors" requirement). It also carries significant restrictions, including limitations on entering contracts and holding certain positions.
+
+Disability grant protections. The South African Social Assistance Act (Act 13 of 2004) provides a Disability Grant for people who are unable to work due to a physical or mental disability. These grants are generally protected from attachment by creditors, meaning a creditor cannot seize your disability grant to pay a debt. However, once grant money is deposited into a bank account and commingled with other funds, tracing and protecting it becomes more difficult.
+
+Resources: The National Credit Regulator (ncr.org.za) maintains a register of debt counsellors and consumer education resources.
+
+Nigeria
+
+Bankruptcy and Insolvency Act, 2004. Nigeria's framework for personal insolvency is the Bankruptcy Act (originally enacted in 1979, consolidated in 2004 as part of the Laws of the Federation). Under this law, an individual can be declared bankrupt by a court if they owe at least a prescribed minimum amount and cannot pay their debts as they fall due. The process involves a petition to the Federal High Court, appointment of a trustee, and distribution of assets to creditors.
+
+Limited practical access. In practice, formal personal bankruptcy is uncommon in Nigeria. The process is slow, expensive, and carries social stigma. Most individuals in financial distress resolve their debts through informal negotiation, family support networks, or simply by being effectively judgment-proof due to lack of attachable assets.
+
+Disability rights. The Discrimination Against Persons with Disabilities (Prohibition) Act 2018 is a landmark law prohibiting discrimination against disabled people in Nigeria. While it does not specifically address debt relief, it establishes a legal framework for disability rights, including accessibility, education, healthcare, and employment protections. The Act created the National Commission for Persons with Disabilities to oversee enforcement.
+
+Resources: The National Human Rights Commission of Nigeria can provide guidance on disability rights. Legal Aid Council of Nigeria offices offer free legal assistance to qualifying individuals.
+
+Kenya
+
+Insolvency Act, 2015. Kenya modernized its insolvency framework with the Insolvency Act, 2015, replacing the older Bankruptcy Act. The new law provides for individual bankruptcy proceedings including a formal petition process, appointment of a trustee in bankruptcy, and a framework for discharge. A debtor can petition for their own bankruptcy, or creditors can file a petition if the debtor owes at least KES 500,000 and has committed an act of bankruptcy.
+
+Discharge. Under the 2015 Act, a bankrupt person may apply for discharge after a specified period. The court considers factors including the bankrupt's conduct and cooperation with the trustee. Discharge releases the bankrupt from most debts, though some obligations (such as court fines and debts obtained through fraud) survive.
+
+Disability protections. The Persons with Disabilities Act, 2003 (currently under revision) provides protections including the right to education, employment, healthcare, and accessibility. Kenya's Constitution (2010) also includes disability as a protected ground against discrimination under Article 27. The National Council for Persons with Disabilities administers a cash transfer programme for persons with severe disabilities.
+
+Resources: The Kenya Law Reform Commission (klrc.go.ke) publishes current legislation. The National Council for Persons with Disabilities provides support services.
+
+Ghana
+
+Corporate Insolvency and Restructuring Act, 2020 (Act 1015). Ghana enacted the Corporate Insolvency and Restructuring Act in 2020, but as the name suggests, it primarily addresses corporate insolvency - companies, not individuals. Ghana does not currently have a comprehensive personal bankruptcy statute comparable to those in South Africa, Kenya, or the UK.
+
+Older framework. The Bodies Corporate (Official Liquidations) Act, 1963 (Act 180) and portions of the Courts Act, 1993 (Act 459) contain limited provisions relating to individual insolvency, but these are rarely used in practice. Most personal debt disputes in Ghana are resolved through civil court judgments, negotiation, or informal arrangements.
+
+Disability rights. The Persons with Disability Act, 2006 (Act 715) prohibits discrimination against persons with disabilities and establishes the National Council on Persons with Disability. The Act provides for a common fund to support disabled persons with education, healthcare, and economic empowerment. Ghana ratified the UN Convention on the Rights of Persons with Disabilities in 2012.
+
+Practical reality. Without a robust personal insolvency framework, Ghanaians with disabilities who face unmanageable debt have limited formal legal recourse. Community-based support, microfinance institutions, and negotiation with creditors remain the most common approaches.
+
+United Kingdom
+
+Multiple debt relief pathways. The UK offers several formal options for individuals who cannot pay their debts, each with different eligibility criteria:
+
+Debt Relief Orders (DROs) - For people with debts under 30,000 pounds, minimal assets, and low income (surplus income under 75 pounds/month). Lasts 12 months with no payments to creditors. Application fee: 90 pounds. Particularly relevant for disabled people on benefits.
+
+Individual Voluntary Arrangements (IVAs) - A formal agreement with creditors to repay a portion of your debts over 5 to 6 years. Requires approval by 75% of creditors by debt value. Managed by a licensed insolvency practitioner.
+
+Bankruptcy - Apply online through the Insolvency Service (application fee: 680 pounds). Typically lasts 12 months. The official receiver may sell non-exempt assets to pay creditors. Surplus income payments may continue for 3 years.
+
+Disability benefits protected. Disability-related benefits - including Personal Independence Payment (PIP), Disability Living Allowance (DLA), and the disability premiums within Universal Credit - are generally not treated as surplus income in bankruptcy or DRO calculations. Essential disability equipment and aids cannot be seized.
+
+Free advice. StepChange (stepchange.org) and National Debtline (nationaldebtline.org) provide free, confidential debt advice. Citizens Advice also offers debt guidance at local offices throughout the UK.
+
+Australia
+
+Bankruptcy Act 1966. Australia's personal insolvency framework is governed by the Bankruptcy Act 1966 (Cth). Individuals can file a debtor's petition for voluntary bankruptcy through the Australian Financial Security Authority (AFSA). Bankruptcy typically lasts 3 years and 1 day from the date the statement of affairs is filed.
+
+Alternatives to bankruptcy:
+
+Part IX Debt Agreements - A binding agreement with creditors to pay what you can afford. Eligibility caps apply for unsecured debts, income, and assets. Typically lasts 3 to 5 years.
+
+Part X Personal Insolvency Agreements - More flexible than Part IX, no eligibility caps. Requires a controlling trustee and creditor approval. Used for more complex situations.
+
+Disability Support Pension (DSP) protections. The DSP is a Centrelink payment for people who have a permanent physical, intellectual, or psychiatric condition that prevents them from working 15 or more hours per week. In bankruptcy, DSP payments are generally considered income for the purposes of income contribution assessments, but the threshold is set so that low-income recipients (which most DSP recipients are) typically pay nothing to the bankruptcy estate.
+
+Resources: The Australian Financial Security Authority (afsa.gov.au) provides information on all personal insolvency options. The National Debt Helpline (1800 007 007) offers free financial counselling.
+
+India
+
+Insolvency and Bankruptcy Code, 2016 (IBC). India enacted the IBC in 2016 as a comprehensive insolvency framework. However, the personal insolvency provisions contained in Part III of the Code have not yet been fully notified or implemented. As of early 2025, the IBC primarily operates for corporate debtors, with personal insolvency limited to personal guarantors of corporate debtors.
+
+Existing frameworks. For individual debt recovery, the primary laws are the Recovery of Debts and Bankruptcy Act, 1993 (originally called the Recovery of Debts Due to Banks and Financial Institutions Act), which established Debt Recovery Tribunals (DRTs), and the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act), which allows secured creditors to enforce their security interest without court intervention.
+
+Disability rights. The Rights of Persons with Disabilities Act, 2016 (RPwD Act) is India's primary disability legislation, replacing the earlier Persons with Disabilities Act, 1995. It recognizes 21 categories of disability (expanded from 7 under the old law) and provides for reservations in education and employment, accessibility requirements, and social security measures. While the RPwD Act does not directly address debt relief, it mandates that government schemes ensure inclusion of persons with disabilities.
+
+Practical options. Most individuals in India manage unaffordable debt through negotiation with creditors, one-time settlement offers (common with banks), or by approaching the banking ombudsman for disputes with banks. The Lok Adalat (people's court) system also provides a forum for settling disputes, including debt matters, through mediation.
+
+Resources: The Insolvency and Bankruptcy Board of India (ibbi.gov.in) publishes updates on IBC implementation. The Department of Empowerment of Persons with Disabilities (disabilityaffairs.gov.in) oversees disability policy.
+
+In the United States?
+
+If you are in the United States, see our comprehensive guide to Disability and Debt in the US, covering SSDI and SSI protections, judgment-proof status, bankruptcy for disabled individuals, VA disability benefit protections, student loan discharge for total and permanent disability, and state-by-state protections.
+
+Disclaimer: Laws in every jurisdiction change over time. The legislation names and general descriptions in this guide were accurate as of early 2025, but specific provisions, thresholds, and procedures may have been amended. This guide is for general educational purposes only and does not constitute legal advice. Always consult a qualified legal professional in your country before acting on any information here.
+
+Frequently Asked Questions
+
+Can disability benefits be taken for debt in South Africa?
+
+South African law generally protects social grants, including the Disability Grant, from attachment by creditors. Under the Social Assistance Act, these grants are intended for the basic needs of vulnerable people and cannot be seized to satisfy debts. However, if grant money is deposited into a bank account with other funds, complications can arise. The National Credit Act also provides a debt review process that can restructure payments to affordable levels.
+
+Are disability benefits protected from creditors in the UK?
+
+Yes. In the United Kingdom, disability benefits such as Personal Independence Payment (PIP), Disability Living Allowance (DLA), and Employment and Support Allowance (ESA) are generally not treated as available income for the purposes of debt enforcement. In a Debt Relief Order or bankruptcy, benefit income needed for essential living expenses is protected. Creditors cannot send bailiffs to seize disability aids or equipment you need.
+
+Can I go bankrupt in Australia if I receive the Disability Support Pension?
+
+Yes. Receiving the Disability Support Pension (DSP) does not prevent you from filing for bankruptcy in Australia under the Bankruptcy Act 1966. The DSP itself is generally protected and is not available to your bankruptcy trustee. Bankruptcy in Australia typically lasts three years and one day. Alternatives include Part IX and Part X debt agreements, which allow you to negotiate repayment arrangements with creditors.
+
+Does India have personal bankruptcy for individuals with disabilities?
+
+India's Insolvency and Bankruptcy Code 2016 primarily covers corporate insolvency. The personal insolvency provisions (Part III) have not yet been fully implemented as of 2025. For individuals, including those with disabilities, debt recovery is mainly handled through the Recovery of Debts and Bankruptcy Act 1993 and negotiation. The Rights of Persons with Disabilities Act 2016 provides broad anti-discrimination protections, but does not specifically address debt relief.
+
+In the United States? Check your bankruptcy discharge eligibility.
+
+Free Discharge Screener
+
+About This Guide: Content based on publicly available legislation and official government resources
+from each jurisdiction. Legislation referenced includes South Africa's National Credit Act 34 of 2005, Nigeria's
+Bankruptcy and Insolvency Act (LFN 2004), Kenya's Insolvency Act 2015, Ghana's Corporate Insolvency and Restructuring
+Act 2020 (Act 1015), the UK Insolvency Act 1986, Australia's Bankruptcy Act 1966, and India's Insolvency and Bankruptcy
+Code 2016. This is educational content, not legal advice. Laws may have changed since publication.
+
+Related Guides
+
+Debt Statute of Limitations
+
+Credit Card Forgiveness
+
+Judgment Proof Guide
+
+Student Loan Forgiveness
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Bankruptcy Glossary -- 61 terms explained
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
+
+Open Bankruptcy Project -- openbankruptcyproject.org
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+disabilityanddebt.org
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney or solicitor in your jurisdiction.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Judgment Proof Status With a Disability - Disabilityanddebt
 Source: https://disabilityanddebt.org/judgment-proof.html
 
 Judgment Proof Status With a Disability
@@ -605,13 +813,15 @@ When Creditors Cannot Collect No Matter What
 
 ← Back to disabilityanddebt.org
 
+Home›Judgment Proof Status With a Disability | disabilityanddebt.org›Judgment Proof Status With a Disability
+
 What Judgment Proof Means
 
 You are 'judgment proof' (also called 'collection proof') when a creditor cannot collect from you even if they win a lawsuit and get a judgment. This happens when: your only income is from protected sources (SSDI, SSI, VA), you have no non-exempt assets, and you have no non-exempt bank account balances. A judgment against a judgment-proof person is like a check written on an empty account.
 
 Common Judgment-Proof Situations
 
-People living solely on SSI are almost always judgment proof -- SSI cannot be garnished by anyone and is needs-based (meaning minimal assets). People living on SSDI with no other income or significant assets are typically judgment proof. People living in states with generous homestead exemptions who own a modest home and car may be judgment proof even with some assets. See judgmentproof.org for more.
+People living solely on SSI are almost always judgment proof - SSI cannot be garnished by anyone and is needs-based (meaning minimal assets). People living on SSDI with no other income or significant assets are typically judgment proof. People living in states with generous homestead exemptions who own a modest home and car may be judgment proof even with some assets. See judgmentproof.org for more.
 
 Should You Even File Bankruptcy?
 
@@ -619,7 +829,7 @@ If you are judgment proof, bankruptcy may be unnecessary. The debts exist on pap
 
 Important Warnings
 
-Judgment-proof status can change. If you return to work, receive an inheritance, or win a lawsuit, creditors with existing judgments can begin collecting. Judgments last 10-20 years (depending on state) and can be renewed. If your situation may change, consider filing bankruptcy proactively to eliminate debts while you can. Also, judgment-proof status does not prevent lawsuits or judgments -- it just means they cannot collect.
+Judgment-proof status can change. If you return to work, receive an inheritance, or win a lawsuit, creditors with existing judgments can begin collecting. Judgments last 10-20 years (depending on state) and can be renewed. If your situation may change, consider filing bankruptcy proactively to eliminate debts while you can. Also, judgment-proof status does not prevent lawsuits or judgments - it just means they cannot collect.
 
 Frequently Asked Questions
 
@@ -633,7 +843,7 @@ Yes. Being judgment proof does not prevent lawsuits or judgments. It prevents co
 
 How long do judgments last?
 
-10-20 years depending on the state, and they can often be renewed. This is why some judgment-proof people file bankruptcy anyway -- to permanently eliminate the debt rather than having an uncollectible judgment hanging over them.
+10-20 years depending on the state, and they can often be renewed. This is why some judgment-proof people file bankruptcy anyway - to permanently eliminate the debt rather than having an uncollectible judgment hanging over them.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -663,7 +873,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -737,7 +947,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## The Medical Debt Spiral With Disability -- Disabilityanddebt
+## The Medical Debt Spiral With Disability - Disabilityanddebt
 Source: https://disabilityanddebt.org/medical-debt-spiral.html
 
 The Medical Debt Spiral With Disability
@@ -745,6 +955,8 @@ The Medical Debt Spiral With Disability
 When Illness Creates Debt That Creates More Illness
 
 ← Back to disabilityanddebt.org
+
+Home›The Medical Debt Spiral With Disability | disabilityanddebt.org›The Medical Debt Spiral With Disability
 
 The Spiral Pattern
 
@@ -760,7 +972,7 @@ Step 1: Apply for every benefit you qualify for (Medicaid, Medicare, SSDI, SSI, 
 
 Prevention
 
-Enroll in health insurance during open enrollment (disability is a qualifying life event for special enrollment). Apply for Medicaid if income qualifies. Use community health centers for primary care (sliding scale fees). Apply for patient assistance programs for medications. Advocate for yourself -- the healthcare system is complex, but help exists.
+Enroll in health insurance during open enrollment (disability is a qualifying life event for special enrollment). Apply for Medicaid if income qualifies. Use community health centers for primary care (sliding scale fees). Apply for patient assistance programs for medications. Advocate for yourself - the healthcare system is complex, but help exists.
 
 Frequently Asked Questions
 
@@ -770,7 +982,7 @@ No. The ADA prohibits healthcare providers from discriminating based on disabili
 
 Is medical debt treated differently in bankruptcy?
 
-Medical debt is unsecured debt that is fully dischargeable -- same as credit cards. There is no special treatment, but medical debt is one of the most common reasons people file.
+Medical debt is unsecured debt that is fully dischargeable - same as credit cards. There is no special treatment, but medical debt is one of the most common reasons people file.
 
 Can medical debt affect my disability benefits?
 
@@ -804,7 +1016,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -878,7 +1090,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Protected Income Types -- Disabilityanddebt
+## Protected Income Types - Disabilityanddebt
 Source: https://disabilityanddebt.org/protected-income.html
 
 Protected Income Types
@@ -886,6 +1098,8 @@ Protected Income Types
 Income That Creditors Cannot Touch
 
 ← Back to disabilityanddebt.org
+
+Home›Protected Income Types | disabilityanddebt.org›Protected Income Types
 
 Federally Protected Income
 
@@ -936,6 +1150,10 @@ Reaffirmation Agreements Explained
 
 Payday Loan Debt in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -945,7 +1163,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -1019,7 +1237,152 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## SSDI and Garnishment -- Disabilityanddebt
+## Seniors and Bankruptcy - A Guide for Older Americans Filing Bankruptcy
+Source: https://disabilityanddebt.org/seniors-bankruptcy.html
+
+Seniors and Bankruptcy
+
+A Guide for Older Americans Considering Bankruptcy
+
+← Back to disabilityanddebt.org
+
+Home›Disability and Debt | disabilityanddebt.org›Seniors and Bankruptcy
+
+Social Security Is Fully Protected
+
+Social Security benefits - including retirement, disability (SSDI), and survivor benefits - are completely excluded from the means test calculation under 11 U.S.C. Section 101(10A). This means your Social Security income does not count against you when determining Chapter 7 eligibility. Additionally, Social Security funds are protected from creditors under 42 U.S.C. Section 407, even after they are deposited into your bank account, as long as they remain traceable to Social Security.
+
+Retirement Accounts Are Exempt
+
+Federal bankruptcy law provides strong protection for retirement savings. ERISA-qualified plans - including 401(k)s, 403(b)s, profit-sharing plans, and defined-benefit pensions - have unlimited protection under 11 U.S.C. Section 522(b)(3)(C). Traditional and Roth IRAs are protected up to $1,512,350 (2024 adjusted limit). SEP-IRAs and SIMPLE IRAs receive unlimited protection because they are treated as ERISA plans. Your retirement savings are not part of the bankruptcy estate and cannot be taken by creditors or the trustee.
+
+Medical Debt - The Leading Driver for Senior Filings
+
+Medical debt is the single largest reason Americans over 65 seek bankruptcy protection. Unlike student loans or tax debts, medical debt is fully dischargeable in both Chapter 7 and Chapter 13. A single hospitalization or cancer treatment can generate tens of thousands in bills, even with Medicare coverage. Bankruptcy eliminates this debt entirely, giving seniors a genuine fresh start without sacrificing their Social Security or retirement accounts.
+
+If medical debt is your primary burden, Chapter 7 may be the fastest path to relief - most cases are completed in 3 to 4 months with no repayment required.
+
+Reverse Mortgages and Bankruptcy
+
+If you have a reverse mortgage (Home Equity Conversion Mortgage), filing bankruptcy does not automatically trigger repayment. The reverse mortgage lender cannot call the loan due solely because of a bankruptcy filing. However, you must continue to meet the loan obligations: maintaining the home as your primary residence, staying current on property taxes and homeowners insurance, and keeping the property in reasonable condition. If you are behind on property taxes, a Chapter 13 plan can help you catch up over 3 to 5 years while keeping your home.
+
+Fixed Income and Chapter 7 Eligibility
+
+Seniors living primarily on Social Security often qualify easily for Chapter 7 because those benefits are excluded from the means test entirely. Even if your monthly Social Security exceeds the state median income, it does not count. Pension income is counted in the means test, but allowable deductions for out-of-pocket medical expenses, prescription costs, and age-related needs frequently bring the calculation below the threshold. Many seniors on fixed incomes are strong candidates for Chapter 7.
+
+When Chapter 13 Makes Sense for Seniors
+
+Chapter 13 may be the better option when you need to:
+
+Catch up on a mortgage or property tax arrearage to keep your home
+
+Protect non-exempt assets that would be liquidated in Chapter 7
+
+Strip off a junior lien on your home if the home is worth less than the first mortgage
+
+Repay priority debts (recent taxes, for example) over a manageable 3- to 5-year plan
+
+Under Chapter 13, your plan payment is based on disposable income. Because Social Security is excluded, many seniors can propose very low or even zero-dollar plans while still catching up on secured debts.
+
+Frequently Asked Questions
+
+Will I lose my Social Security if I file bankruptcy?
+
+No. Social Security benefits are fully protected in bankruptcy. They are excluded from the means test under 11 U.S.C. Section 101(10A), and they are exempt from creditors under 42 U.S.C. Section 407.
+
+Is my 401(k) or IRA safe in bankruptcy?
+
+Yes. ERISA-qualified retirement accounts (401(k), 403(b), pension plans) have unlimited federal protection. Traditional and Roth IRAs are protected up to $1,512,350.
+
+Can seniors qualify for Chapter 7 on a fixed income?
+
+Yes. Many seniors easily qualify because Social Security is excluded from the means test entirely. If Social Security is your primary income, you almost certainly pass the means test.
+
+What about medical debt - can bankruptcy eliminate it?
+
+Yes. Medical debt is unsecured, non-priority debt that is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy.
+
+Check your bankruptcy discharge eligibility with our free screening tool.
+
+Free Discharge Screener
+
+About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code),
+the Social Security Act (42 U.S.C. Section 407), and ERISA (29 U.S.C. Section 1056(d)).
+District-level statistics from the Federal Judicial Center Integrated Database
+(37.9 million cases, 94 districts, FY 2008-2024). This is educational content, not legal advice.
+
+Related Guides
+
+Bankruptcy With a Disability
+
+Medical Debt Spiral
+
+Protected Income in Bankruptcy
+
+Exemptions by State
+
+Bankruptcy Means Test
+
+Chapter 7 vs Chapter 13
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on seniors, retirement, and bankruptcy:
+
+42 U.S.C. Section 407
+Cornell LII - Social Security benefit protection
+
+11 U.S.C. Section 522
+Cornell LII - Bankruptcy exemptions (retirement accounts)
+
+CFPB: Debt Collection
+Consumer Financial Protection Bureau tools
+
+SSA: Benefits and Garnishment
+Social Security Administration fact sheet
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+disabilityanddebt.org
+
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (determination pending).
+
+Privacy |
+Terms
+
+♥ Sponsor
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## SSDI and Garnishment - Disabilityanddebt
 Source: https://disabilityanddebt.org/ssdi-and-garnishment.html
 
 SSDI and Garnishment
@@ -1028,9 +1391,11 @@ When Can Your Disability Benefits Be Taken?
 
 ← Back to disabilityanddebt.org
 
+Home›SSDI and Garnishment | disabilityanddebt.org›SSDI and Garnishment
+
 The General Protection
 
-Social Security Disability Insurance (SSDI) is protected from most creditor garnishment under 42 U.S.C. 407. Private creditors -- credit card companies, medical providers, personal loan companies, debt collectors -- cannot garnish your SSDI benefits. This protection is absolute for private debts regardless of whether the creditor has a court judgment.
+Social Security Disability Insurance (SSDI) is protected from most creditor garnishment under 42 U.S.C. 407. Private creditors - credit card companies, medical providers, personal loan companies, debt collectors - cannot garnish your SSDI benefits. This protection is absolute for private debts regardless of whether the creditor has a court judgment.
 
 Who CAN Garnish SSDI
 
@@ -1050,7 +1415,7 @@ Can a judgment creditor take my SSDI?
 
 No. Even with a court judgment, a private creditor cannot garnish SSDI. If a creditor attempts to garnish, file a claim of exemption with the court citing 42 U.S.C. 407.
 
-What about SSI -- is it also protected?
+What about SSI - is it also protected?
 
 SSI (Supplemental Security Income) has even stronger protections than SSDI. SSI cannot be garnished by anyone, including the IRS and child support enforcement, because it is a needs-based benefit.
 
@@ -1077,6 +1442,10 @@ Reaffirmation Agreements Explained
 
 Payday Loan Debt in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1086,7 +1455,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -1160,7 +1529,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## State Protections for Disabled Debtors -- Disabilityanddebt
+## State Protections for Disabled Debtors - Disabilityanddebt
 Source: https://disabilityanddebt.org/state-protections.html
 
 State Protections for Disabled Debtors
@@ -1168,6 +1537,8 @@ State Protections for Disabled Debtors
 Additional Rights Beyond Federal Law
 
 ← Back to disabilityanddebt.org
+
+Home›State Protections for Disabled Debtors | disabilityanddebt.org›State Protections for Disabled Debtors
 
 Enhanced Exemptions
 
@@ -1183,7 +1554,7 @@ Some states prohibit discriminatory debt collection practices against disabled i
 
 Medicaid and Long-Term Care
 
-Medicaid estate recovery can affect assets after death in some states. However, most states exempt the home while a spouse or disabled child resides there. ABLE accounts are protected from Medicaid recovery in most states. Medicaid planning is complex -- consult an elder law or disability rights attorney if you have significant assets and Medicaid concerns.
+Medicaid estate recovery can affect assets after death in some states. However, most states exempt the home while a spouse or disabled child resides there. ABLE accounts are protected from Medicaid recovery in most states. Medicaid planning is complex - consult an elder law or disability rights attorney if you have significant assets and Medicaid concerns.
 
 Frequently Asked Questions
 
@@ -1227,7 +1598,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -1301,7 +1672,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Discharge for Disabled Borrowers -- Disabilityanddebt
+## Student Loan Discharge for Disabled Borrowers - Disabilityanddebt
 Source: https://disabilityanddebt.org/student-loan-discharge.html
 
 Student Loan Discharge for Disabled Borrowers
@@ -1309,6 +1680,8 @@ Student Loan Discharge for Disabled Borrowers
 Total and Permanent Disability Discharge
 
 ← Back to disabilityanddebt.org
+
+Home›Student Loan Discharge for Disabled Borrowers | disabilityanddebt.org›Student Loan Discharge for Disabled Borrowers
 
 Total and Permanent Disability Discharge
 
@@ -1359,6 +1732,10 @@ Reaffirmation Agreements Explained
 
 Payday Loan Debt in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1368,7 +1745,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -1442,7 +1819,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## VA Disability Benefits and Debt -- Disabilityanddebt
+## VA Disability Benefits and Debt - Disabilityanddebt
 Source: https://disabilityanddebt.org/va-disability.html
 
 VA Disability Benefits and Debt
@@ -1450,6 +1827,8 @@ VA Disability Benefits and Debt
 Protections for Veterans' Disability Compensation
 
 ← Back to disabilityanddebt.org
+
+Home›VA Disability Benefits and Debt | disabilityanddebt.org›VA Disability Benefits and Debt
 
 VA Benefits Are Strongly Protected
 
@@ -1477,7 +1856,7 @@ Can I lose my VA benefits if I file bankruptcy?
 
 No. VA benefits are based on your military service and disability rating, not your financial status. Bankruptcy does not affect VA eligibility or benefit amounts.
 
-What about VA home loans -- can I include those in bankruptcy?
+What about VA home loans - can I include those in bankruptcy?
 
 VA-guaranteed home loans can be included in bankruptcy. Chapter 13 can cure mortgage arrears. However, defaulting on a VA loan may affect your future VA loan entitlement. Consult a veterans' legal clinic.
 
@@ -1500,6 +1879,10 @@ Reaffirmation Agreements Explained
 
 Payday Loan Debt in Bankruptcy
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1509,7 +1892,7 @@ Further Reading & Resources
 Authority sources for deeper research on disability, housing, and debt protection:
 
 42 U.S.C. Section 407
-Cornell LII -- SS benefit protection
+Cornell LII - SS benefit protection
 
 CFPB: Debt Collection
 CFPB tools
@@ -1583,146 +1966,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Seniors and Bankruptcy -- A Guide for Older Americans Filing Bankruptcy
-Source: https://disabilityanddebt.org/seniors-bankruptcy.html
-
-Seniors and Bankruptcy
-
-A Guide for Older Americans Considering Bankruptcy
-
-← Back to disabilityanddebt.org
-
-Social Security Is Fully Protected
-
-Social Security benefits -- including retirement, disability (SSDI), and survivor benefits -- are completely excluded from the means test calculation under 11 U.S.C. Section 101(10A). This means your Social Security income does not count against you when determining Chapter 7 eligibility. Additionally, Social Security funds are protected from creditors under 42 U.S.C. Section 407, even after they are deposited into your bank account, as long as they remain traceable to Social Security.
-
-Retirement Accounts Are Exempt
-
-Federal bankruptcy law provides strong protection for retirement savings. ERISA-qualified plans -- including 401(k)s, 403(b)s, profit-sharing plans, and defined-benefit pensions -- have unlimited protection under 11 U.S.C. Section 522(b)(3)(C). Traditional and Roth IRAs are protected up to $1,512,350 (2024 adjusted limit). SEP-IRAs and SIMPLE IRAs receive unlimited protection because they are treated as ERISA plans. Your retirement savings are not part of the bankruptcy estate and cannot be taken by creditors or the trustee.
-
-Medical Debt -- The Leading Driver for Senior Filings
-
-Medical debt is the single largest reason Americans over 65 seek bankruptcy protection. Unlike student loans or tax debts, medical debt is fully dischargeable in both Chapter 7 and Chapter 13. A single hospitalization or cancer treatment can generate tens of thousands in bills, even with Medicare coverage. Bankruptcy eliminates this debt entirely, giving seniors a genuine fresh start without sacrificing their Social Security or retirement accounts.
-
-If medical debt is your primary burden, Chapter 7 may be the fastest path to relief -- most cases are completed in 3 to 4 months with no repayment required.
-
-Reverse Mortgages and Bankruptcy
-
-If you have a reverse mortgage (Home Equity Conversion Mortgage), filing bankruptcy does not automatically trigger repayment. The reverse mortgage lender cannot call the loan due solely because of a bankruptcy filing. However, you must continue to meet the loan obligations: maintaining the home as your primary residence, staying current on property taxes and homeowners insurance, and keeping the property in reasonable condition. If you are behind on property taxes, a Chapter 13 plan can help you catch up over 3 to 5 years while keeping your home.
-
-Fixed Income and Chapter 7 Eligibility
-
-Seniors living primarily on Social Security often qualify easily for Chapter 7 because those benefits are excluded from the means test entirely. Even if your monthly Social Security exceeds the state median income, it does not count. Pension income is counted in the means test, but allowable deductions for out-of-pocket medical expenses, prescription costs, and age-related needs frequently bring the calculation below the threshold. Many seniors on fixed incomes are strong candidates for Chapter 7.
-
-When Chapter 13 Makes Sense for Seniors
-
-Chapter 13 may be the better option when you need to:
-
-Catch up on a mortgage or property tax arrearage to keep your home
-
-Protect non-exempt assets that would be liquidated in Chapter 7
-
-Strip off a junior lien on your home if the home is worth less than the first mortgage
-
-Repay priority debts (recent taxes, for example) over a manageable 3- to 5-year plan
-
-Under Chapter 13, your plan payment is based on disposable income. Because Social Security is excluded, many seniors can propose very low or even zero-dollar plans while still catching up on secured debts.
-
-Frequently Asked Questions
-
-Will I lose my Social Security if I file bankruptcy?
-
-No. Social Security benefits are fully protected in bankruptcy. They are excluded from the means test under 11 U.S.C. Section 101(10A), and they are exempt from creditors under 42 U.S.C. Section 407.
-
-Is my 401(k) or IRA safe in bankruptcy?
-
-Yes. ERISA-qualified retirement accounts (401(k), 403(b), pension plans) have unlimited federal protection. Traditional and Roth IRAs are protected up to $1,512,350.
-
-Can seniors qualify for Chapter 7 on a fixed income?
-
-Yes. Many seniors easily qualify because Social Security is excluded from the means test entirely. If Social Security is your primary income, you almost certainly pass the means test.
-
-What about medical debt -- can bankruptcy eliminate it?
-
-Yes. Medical debt is unsecured, non-priority debt that is fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy.
-
-Check your bankruptcy discharge eligibility with our free screening tool.
-
-Free Discharge Screener
-
-About This Data: Content based on federal bankruptcy law (Title 11, U.S. Code),
-the Social Security Act (42 U.S.C. Section 407), and ERISA (29 U.S.C. Section 1056(d)).
-District-level statistics from the Federal Judicial Center Integrated Database
-(37.9 million cases, 94 districts, FY 2008-2024). This is educational content, not legal advice.
-
-Related Guides
-
-Bankruptcy With a Disability
-
-Medical Debt Spiral
-
-Protected Income in Bankruptcy
-
-Exemptions by State
-
-Bankruptcy Means Test
-
-Chapter 7 vs Chapter 13
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on seniors, retirement, and bankruptcy:
-
-42 U.S.C. Section 407
-Cornell LII -- Social Security benefit protection
-
-11 U.S.C. Section 522
-Cornell LII -- Bankruptcy exemptions (retirement accounts)
-
-CFPB: Debt Collection
-Consumer Financial Protection Bureau tools
-
-SSA: Benefits and Garnishment
-Social Security Administration fact sheet
-
-Find Free Legal Aid
-LSC legal aid finder
-
-Part of the Bankruptcy Transparency Network
-
-Real information, no strings.
-
-Discharge Screener
-Open Bankruptcy Project
-Ch.7 vs Ch.13
-Bankruptcy Cost
-Automatic Stay
-341 Meeting
-Exemptions by State
-Means Test
-File Without a Lawyer
-Rebuild Credit
-disabilityanddebt.org
-
-Free bankruptcy education for the public interest. Not legal advice.
-If you need legal help, contact a licensed attorney in your state.
-A project of the Open Bankruptcy Project,
-a 501(c)(3) nonprofit (determination pending).
-
-Privacy |
-Terms
-
-♥ Sponsor
-
-Our research was cited by the federal judiciary as Suggestion 26-BK-3
-
----
-
-## Veterans and Bankruptcy -- Military-Specific Protections and Benefits
+## Veterans and Bankruptcy - Military-Specific Protections and Benefits
 Source: https://disabilityanddebt.org/veterans-bankruptcy.html
 
 Veterans and Bankruptcy
@@ -1731,9 +1975,11 @@ Military-Specific Protections, Benefits, and Exemptions
 
 ← Back to disabilityanddebt.org
 
+Home›Disability and Debt | disabilityanddebt.org›Veterans and Bankruptcy
+
 VA Benefits Are Protected
 
-All VA benefits -- including disability compensation, pension, education benefits (GI Bill), and dependency and indemnity compensation (DIC) -- are fully exempt from the bankruptcy estate under 38 U.S.C. Section 5301. The bankruptcy trustee cannot seize these funds, and creditors cannot garnish them. VA disability compensation is also excluded from the means test calculation, which often makes it significantly easier for veterans to qualify for Chapter 7.
+All VA benefits - including disability compensation, pension, education benefits (GI Bill), and dependency and indemnity compensation (DIC) - are fully exempt from the bankruptcy estate under 38 U.S.C. Section 5301. The bankruptcy trustee cannot seize these funds, and creditors cannot garnish them. VA disability compensation is also excluded from the means test calculation, which often makes it significantly easier for veterans to qualify for Chapter 7.
 
 This protection extends to VA benefits already deposited in your bank account, as long as the funds are traceable to VA payments. If you commingle VA benefits with other income, keep records showing which deposits came from the VA.
 
@@ -1773,7 +2019,7 @@ VA Loans and Bankruptcy
 
 Filing bankruptcy does not revoke your VA loan entitlement. If you are current on your VA mortgage, you can reaffirm the debt in Chapter 7 and keep your home. If you have fallen behind, Chapter 13 allows you to cure the arrearage over 3 to 5 years while remaining in the home.
 
-After bankruptcy, you can use your VA loan benefit again. The typical waiting period is 2 years after a Chapter 7 discharge or 1 year into an active Chapter 13 plan (with trustee approval and a satisfactory payment history). VA loans remain one of the best mortgage products available -- zero down payment, no PMI, and competitive rates -- and bankruptcy does not permanently disqualify you.
+After bankruptcy, you can use your VA loan benefit again. The typical waiting period is 2 years after a Chapter 7 discharge or 1 year into an active Chapter 13 plan (with trustee approval and a satisfactory payment history). VA loans remain one of the best mortgage products available - zero down payment, no PMI, and competitive rates - and bankruptcy does not permanently disqualify you.
 
 Security Clearances and Bankruptcy
 
@@ -1829,13 +2075,13 @@ Further Reading & Resources
 Authority sources for deeper research on veteran protections and bankruptcy:
 
 38 U.S.C. Section 5301
-Cornell LII -- VA benefit protection from creditors
+Cornell LII - VA benefit protection from creditors
 
-50 U.S.C. Chapter 50 -- SCRA
-Cornell LII -- Servicemembers Civil Relief Act full text
+50 U.S.C. Chapter 50 - SCRA
+Cornell LII - Servicemembers Civil Relief Act full text
 
 VA Home Loans
-Department of Veterans Affairs -- home loan programs
+Department of Veterans Affairs - home loan programs
 
 Military OneSource Legal
 Free legal assistance for servicemembers
@@ -1870,3 +2116,75 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - disabilityanddebt.org
+Source: https://disabilityanddebt.org/privacy.html
+
+disabilityanddebt.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
