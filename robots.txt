@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://disabilityanddebt.org/sitemap.xml
+
+Sitemap: https://disabilityanddebt.org/sitemapindex.xml
