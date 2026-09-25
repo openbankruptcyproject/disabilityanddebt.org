@@ -1,5 +1,5 @@
 # Disability and Debt - Relief Options [2026] - Disabilityanddebt
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Struggling with debt on disability income? SSDI/SSI protections, bankruptcy exemptions, and debt relief options. 2026 guide.
 
@@ -7,20 +7,73 @@
 disabilityanddebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Credit Counseling for People With Disabilities - Disabilityanddebt: https://disabilityanddebt.org/credit-counseling.html
-- Bankruptcy With a Disability - Disabilityanddebt: https://disabilityanddebt.org/disability-bankruptcy.html
+- Credit Counseling for Disabled Filers [2026]: 11 USC 109(h) Mental-Incapacity Waiver: https://disabilityanddebt.org/credit-counseling.html
+- Bankruptcy With a Disability [2026]: SSDI, SSI Protection and 11 USC 522 Exemptions: https://disabilityanddebt.org/disability-bankruptcy.html
 - Disability and Debt - Relief Options [2026] - Disabilityanddebt: https://disabilityanddebt.org/
-- Debt Relief for People with Disabilities - International Guide - Disabilityanddebt: https://disabilityanddebt.org/international.html
-- Judgment Proof Status With a Disability - Disabilityanddebt: https://disabilityanddebt.org/judgment-proof.html
-- The Medical Debt Spiral With Disability - Disabilityanddebt: https://disabilityanddebt.org/medical-debt-spiral.html
-- Protected Income Types - Disabilityanddebt: https://disabilityanddebt.org/protected-income.html
+- Debt Relief for People with Disabilities - International Guide: https://disabilityanddebt.org/international.html
+- Judgment Proof With a Disability [2026]: Why Some Disabled Debtors Skip Bankruptcy: https://disabilityanddebt.org/judgment-proof.html
+- Medical Debt Spiral With Disability [2026]: How Chronic Care Costs Drive Bankruptcy Filings: https://disabilityanddebt.org/medical-debt-spiral.html
+- Protected Income for Disabled Debtors [2026]: 42 USC 407 SSI and SSDI Anti-Attachment: https://disabilityanddebt.org/protected-income.html
 - Seniors and Bankruptcy - A Guide for Older Americans Filing Bankruptcy: https://disabilityanddebt.org/seniors-bankruptcy.html
 - SSDI and Garnishment - Disabilityanddebt: https://disabilityanddebt.org/ssdi-and-garnishment.html
-- State Protections for Disabled Debtors - Disabilityanddebt: https://disabilityanddebt.org/state-protections.html
-- Student Loan Discharge for Disabled Borrowers - Disabilityanddebt: https://disabilityanddebt.org/student-loan-discharge.html
-- VA Disability Benefits and Debt - Disabilityanddebt: https://disabilityanddebt.org/va-disability.html
+- State Protections for Disabled Debtors [2026]: Garnishment Caps and Disability Exemptions: https://disabilityanddebt.org/state-protections.html
+- Student Loan Discharge for Disabled Borrowers [2026]: TPD and 11 USC 523(a)(8) Adversary: https://disabilityanddebt.org/student-loan-discharge.html
+- VA Disability Benefits and Debt [2026]: 38 USC 5301 Anti-Attachment and Bankruptcy Treatment: https://disabilityanddebt.org/va-disability.html
 - Veterans and Bankruptcy - Military-Specific Protections and Benefits: https://disabilityanddebt.org/veterans-bankruptcy.html
 - Privacy Policy: https://disabilityanddebt.org/privacy.html
+- About disabilityanddebt.org: https://disabilityanddebt.org/about.html
+- Disability Income and Debt in Alabama [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/alabama.html
+- Disability Income and Debt in Alaska [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/alaska.html
+- Disability Income and Debt in Arizona [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/arizona.html
+- Disability Income and Debt in Arkansas [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/arkansas.html
+- Disability Income and Debt in California [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/california.html
+- Disability Income and Debt in Colorado [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/colorado.html
+- Disability Income and Debt in Connecticut [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/connecticut.html
+- Disability Income and Debt in Delaware [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/delaware.html
+- Disability Income and Debt in District of Columbia [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/district-of-columbia.html
+- Disability Income and Debt in Florida [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/florida.html
+- Disability Income and Debt in Georgia [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/georgia.html
+- Disability Income and Debt in Hawaii [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/hawaii.html
+- Disability Income and Debt in Idaho [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/idaho.html
+- Disability Income and Debt in Illinois [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/illinois.html
+- Disability and Debt Protection by State: https://disabilityanddebt.org/states/
+- Disability Income and Debt in Indiana [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/indiana.html
+- Disability Income and Debt in Iowa [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/iowa.html
+- Disability Income and Debt in Kansas [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/kansas.html
+- Disability Income and Debt in Kentucky [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/kentucky.html
+- Disability Income and Debt in Louisiana [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/louisiana.html
+- Disability Income and Debt in Maine [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/maine.html
+- Disability Income and Debt in Maryland [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/maryland.html
+- Disability Income and Debt in Massachusetts [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/massachusetts.html
+- Disability Income and Debt in Michigan [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/michigan.html
+- Disability Income and Debt in Minnesota [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/minnesota.html
+- Disability Income and Debt in Mississippi [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/mississippi.html
+- Disability Income and Debt in Missouri [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/missouri.html
+- Disability Income and Debt in Montana [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/montana.html
+- Disability Income and Debt in Nebraska [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/nebraska.html
+- Disability Income and Debt in Nevada [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/nevada.html
+- Disability Income and Debt in New Hampshire [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/new-hampshire.html
+- Disability Income and Debt in New Jersey [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/new-jersey.html
+- Disability Income and Debt in New Mexico [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/new-mexico.html
+- Disability Income and Debt in New York [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/new-york.html
+- Disability Income and Debt in North Carolina [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/north-carolina.html
+- Disability Income and Debt in North Dakota [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/north-dakota.html
+- Disability Income and Debt in Ohio [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/ohio.html
+- Disability Income and Debt in Oklahoma [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/oklahoma.html
+- Disability Income and Debt in Oregon [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/oregon.html
+- Disability Income and Debt in Pennsylvania [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/pennsylvania.html
+- Disability Income and Debt in Rhode Island [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/rhode-island.html
+- Disability Income and Debt in South Carolina [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/south-carolina.html
+- Disability Income and Debt in South Dakota [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/south-dakota.html
+- Disability Income and Debt in Tennessee [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/tennessee.html
+- Disability Income and Debt in Texas [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/texas.html
+- Disability Income and Debt in Utah [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/utah.html
+- Disability Income and Debt in Vermont [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/vermont.html
+- Disability Income and Debt in Virginia [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/virginia.html
+- Disability Income and Debt in Washington [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/washington.html
+- Disability Income and Debt in West Virginia [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/west-virginia.html
+- Disability Income and Debt in Wisconsin [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/wisconsin.html
+- Disability Income and Debt in Wyoming [2026]: SSDI, Garnishment, and Bankruptcy: https://disabilityanddebt.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
