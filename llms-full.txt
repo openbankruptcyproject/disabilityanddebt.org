@@ -1256,7 +1256,7 @@ Social Security benefits - including retirement, disability (SSDI), and survivor
 
 Retirement Accounts Are Exempt
 
-Federal bankruptcy law provides strong protection for retirement savings. ERISA-qualified plans - including 401(k)s, 403(b)s, profit-sharing plans, and defined-benefit pensions - have unlimited protection under 11 U.S.C. Section 522(b)(3)(C). Traditional and Roth IRAs are protected up to $1,512,350 (2024 adjusted limit). SEP-IRAs and SIMPLE IRAs receive unlimited protection because they are treated as ERISA plans. Your retirement savings are not part of the bankruptcy estate and cannot be taken by creditors or the trustee.
+Federal bankruptcy law provides strong protection for retirement savings. ERISA-qualified plans - including 401(k)s, 403(b)s, profit-sharing plans, and defined-benefit pensions - have unlimited protection under 11 U.S.C. Section 522(b)(3)(C). Traditional and Roth IRAs are protected up to $1,711,975 (2025 adjusted limit). SEP-IRAs and SIMPLE IRAs receive unlimited protection because they are treated as ERISA plans. Your retirement savings are not part of the bankruptcy estate and cannot be taken by creditors or the trustee.
 
 Medical Debt - The Leading Driver for Senior Filings
 
@@ -1294,7 +1294,7 @@ No. Social Security benefits are fully protected in bankruptcy. They are exclude
 
 Is my 401(k) or IRA safe in bankruptcy?
 
-Yes. ERISA-qualified retirement accounts (401(k), 403(b), pension plans) have unlimited federal protection. Traditional and Roth IRAs are protected up to $1,512,350.
+Yes. ERISA-qualified retirement accounts (401(k), 403(b), pension plans) have unlimited federal protection. Traditional and Roth IRAs are protected up to $1,711,975.
 
 Can seniors qualify for Chapter 7 on a fixed income?
 
