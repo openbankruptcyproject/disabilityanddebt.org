@@ -1,6 +1,6 @@
 # disabilityanddebt.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on disabilityanddebt.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -1804,7 +1804,7 @@ Apply at disabilitydischarge.com (official Department of Education site). Submit
 
 Tax Implications
 
-Through 2025, TPD discharge is not treated as taxable income (under the American Rescue Plan Act). After 2025, discharged amounts may be taxable unless Congress extends the exemption. Even if taxable, the tax on the discharged amount is almost always far less than the loan balance. If you are insolvent (debts exceed assets), you may be able to exclude the income on your tax return.
+A TPD discharge is excluded from federal taxable income under 26 USC 108(f)(5), which as currently written has no end date. State treatment can differ. If you are insolvent (debts exceed assets), you may be able to exclude the income on your tax return.
 
 Frequently Asked Questions
 
